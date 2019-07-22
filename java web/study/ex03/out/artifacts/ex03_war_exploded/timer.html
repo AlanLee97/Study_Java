@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>timer</title>
+</head>
+<body>
+<script>
+    var i = 0;
+    var timer = window.setTimeout("myTimer()", "1000");
+
+    function myTimer() {
+        window.status = i++;
+        document.write(i);
+        if (i == 50) {
+            window.clearTimeout(timer);
+            return;
+        }
+        //timer = window.setTimeout("myTimer()", "1000");
+    }
+
+</script>
+</body>
+</html>

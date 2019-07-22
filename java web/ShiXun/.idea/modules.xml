@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xh-17soft-01-idea-start/xh-17soft-01-idea-start.iml" filepath="$PROJECT_DIR$/xh-17soft-01-idea-start/xh-17soft-01-idea-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xh-17soft-02-jdbc-start/xh-17soft-02-jdbc-start.iml" filepath="$PROJECT_DIR$/xh-17soft-02-jdbc-start/xh-17soft-02-jdbc-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xh-17soft-03-druid-start/xh-17soft-03-druid-start.iml" filepath="$PROJECT_DIR$/xh-17soft-03-druid-start/xh-17soft-03-druid-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xh-17soft-04-jdbctemplate-start/xh-17soft-04-jdbctemplate-start.iml" filepath="$PROJECT_DIR$/xh-17soft-04-jdbctemplate-start/xh-17soft-04-jdbctemplate-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xh-17soft-05-html&amp;css&amp;javascript-start/xh-17soft-05-html&amp;css&amp;javascript-start.iml" filepath="$PROJECT_DIR$/xh-17soft-05-html&amp;css&amp;javascript-start/xh-17soft-05-html&amp;css&amp;javascript-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xh-17soft-06-servlet-start/xh-17soft-06-servlet-start.iml" filepath="$PROJECT_DIR$/xh-17soft-06-servlet-start/xh-17soft-06-servlet-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xh-17soft-07-jsp&amp;jstl&amp;el-start/xh-17soft-07-jsp&amp;jstl&amp;el-start.iml" filepath="$PROJECT_DIR$/xh-17soft-07-jsp&amp;jstl&amp;el-start/xh-17soft-07-jsp&amp;jstl&amp;el-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xh-17soft-08-shop/xh-17soft-08-shop.iml" filepath="$PROJECT_DIR$/xh-17soft-08-shop/xh-17soft-08-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xh-17soft-09-jq&amp;ajax-start/xh-17soft-09-jq&amp;ajax-start.iml" filepath="$PROJECT_DIR$/xh-17soft-09-jq&amp;ajax-start/xh-17soft-09-jq&amp;ajax-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xh-17soft-10-jedis&amp;redis-start/xh-17soft-10-jedis&amp;redis-start.iml" filepath="$PROJECT_DIR$/xh-17soft-10-jedis&amp;redis-start/xh-17soft-10-jedis&amp;redis-start.iml" />
+    </modules>
+  </component>
+</project>

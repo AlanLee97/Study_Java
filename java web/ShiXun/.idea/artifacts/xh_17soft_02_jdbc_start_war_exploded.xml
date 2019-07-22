@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="xh-17soft-02-jdbc-start:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/xh_17soft_02_jdbc_start_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="xh-17soft-02-jdbc-start/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="xh-17soft-02-jdbc-start" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

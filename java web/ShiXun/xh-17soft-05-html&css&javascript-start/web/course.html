@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>回顾html/css/js</title>
+
+    <style>
+        .box1{
+            color:dodgerblue;
+            font-size: 25px;
+        }
+    </style>
+
+    <script>
+
+        window.onload = function () {
+            document.getElementById("li").innerHTML="<a href='http://www.baidu.com' target='_blank'>项目技术快速回顾</a>";
+        }
+
+    </script>
+</head>
+<body>
+
+<div class="box1">
+    <ol>
+        <li id="li">项目技术快速回顾</li>
+        <li>黑马商城JavaWeb版
+            <ol>
+                <li>用户模块
+                    <ol>
+                        <li>用户注册</li>
+                        <li>用户登录</li>
+                        <li>用户退出</li>
+                    </ol>
+                </li>
+
+                <li>商品模块
+                    <ol>
+                        <li>显示热门和最新商品</li>
+                        <li>根据类别，分页查询所有商品</li>
+                        <li>根据编号，显示商品详细信息</li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li>项目技术总结与考试</li>
+    </ol>
+</div>
+</body>
+</html>
